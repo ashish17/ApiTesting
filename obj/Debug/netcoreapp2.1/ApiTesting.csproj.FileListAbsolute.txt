@@ -1,0 +1,16 @@
+E:\ApiTesting\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\ApiTesting\bin\Debug\netcoreapp2.1\appsettings.json
+E:\ApiTesting\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.deps.json
+E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.runtimeconfig.json
+E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.runtimeconfig.dev.json
+E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.dll
+E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.pdb
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csprojAssemblyReference.cache
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.RazorAssemblyInfo.cache
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.RazorAssemblyInfo.cs
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfoInputs.cache
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfo.cs
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.RazorTargetAssemblyInfo.cache
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.dll
+E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.pdb
