@@ -6,7 +6,6 @@ E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.runtimeconfig.json
 E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.runtimeconfig.dev.json
 E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.dll
 E:\ApiTesting\bin\Debug\netcoreapp2.1\ApiTesting.pdb
-E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.csprojAssemblyReference.cache
 E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.RazorAssemblyInfo.cache
 E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.RazorAssemblyInfo.cs
 E:\ApiTesting\obj\Debug\netcoreapp2.1\ApiTesting.AssemblyInfoInputs.cache
